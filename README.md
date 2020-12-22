@@ -1,6 +1,6 @@
 # PHP CRUD Application
 
-Simple PHP CRUD Application
+## Simple PHP CRUD Application
 
 Learn how to start a simple PHP + MySQLi CRUD (Create, Read, Update, Delete) application. Go step-by-step on how to get started with PHP and MySQLi the right way using your own local installation of WAMP.
 
@@ -35,6 +35,6 @@ Individual Series Videos
 5. Security and Login: https://youtu.be/hfJBcxsOckc
 6. Page and User Authentication: https://youtu.be/__xq2ZKEhwg
 
-## Videos
+## Full Video (Over 4 Hours)
 
 Youtube Link https://www.youtube.com/watch?v=g9yAw5v99CE
